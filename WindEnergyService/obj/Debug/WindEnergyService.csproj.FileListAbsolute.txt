@@ -1,0 +1,13 @@
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\WindEnergyService\bin\WindEnergyService.dll.config
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\WindEnergyService\bin\WindEnergyService.dll
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\WindEnergyService\bin\WindEnergyService.pdb
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\WindEnergyService\obj\Debug\WindEnergyService.csproj.AssemblyReference.cache
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\WindEnergyService\obj\Debug\WindEnergyService.csproj.CoreCompileInputs.cache
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\WindEnergyService\obj\Debug\WindEnergyService.dll
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\WindEnergyService\obj\Debug\WindEnergyService.pdb
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\WindEnergyService\bin\WindEnergyService.dll.config
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\WindEnergyService\bin\WindEnergyService.dll
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\WindEnergyService\bin\WindEnergyService.pdb
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\WindEnergyService\obj\Debug\WindEnergyService.csproj.CoreCompileInputs.cache
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\WindEnergyService\obj\Debug\WindEnergyService.dll
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\WindEnergyService\obj\Debug\WindEnergyService.pdb

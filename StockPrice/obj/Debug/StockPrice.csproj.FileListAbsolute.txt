@@ -1,0 +1,13 @@
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\StockPrice\bin\StockPrice.dll.config
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\StockPrice\bin\StockPrice.dll
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\StockPrice\bin\StockPrice.pdb
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\StockPrice\obj\Debug\StockPrice.csproj.AssemblyReference.cache
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\StockPrice\obj\Debug\StockPrice.csproj.CoreCompileInputs.cache
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\StockPrice\obj\Debug\StockPrice.dll
+C:\Users\Fonz\Documents\Fonzs Dumb Bullshit\Skool Shit\Semester 8 Garbage\CSE 445\Project5\TryWebApp\StockPrice\obj\Debug\StockPrice.pdb
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\StockPrice\bin\StockPrice.dll.config
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\StockPrice\bin\StockPrice.dll
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\StockPrice\bin\StockPrice.pdb
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\StockPrice\obj\Debug\StockPrice.csproj.CoreCompileInputs.cache
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\StockPrice\obj\Debug\StockPrice.dll
+C:\Users\KnownAsGold\Desktop\Project5\TryWebApp\StockPrice\obj\Debug\StockPrice.pdb
